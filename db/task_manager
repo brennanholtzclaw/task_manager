@@ -9,4 +9,7 @@ tasks:
 - id: 3
   title: wine
   description: super yummy
-total: 3
+- id: 4
+  title: this
+  description: that
+total: 4
